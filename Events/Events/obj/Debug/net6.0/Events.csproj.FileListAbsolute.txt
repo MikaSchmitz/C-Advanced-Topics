@@ -1,0 +1,15 @@
+G:\Code\Udemy\csharp-advanced-course\Events\Events\bin\Debug\net6.0\Events.exe
+G:\Code\Udemy\csharp-advanced-course\Events\Events\bin\Debug\net6.0\Events.deps.json
+G:\Code\Udemy\csharp-advanced-course\Events\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+G:\Code\Udemy\csharp-advanced-course\Events\Events\bin\Debug\net6.0\Events.dll
+G:\Code\Udemy\csharp-advanced-course\Events\Events\bin\Debug\net6.0\Events.pdb
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.dll
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\refint\Events.dll
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.pdb
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+G:\Code\Udemy\csharp-advanced-course\Events\Events\obj\Debug\net6.0\ref\Events.dll

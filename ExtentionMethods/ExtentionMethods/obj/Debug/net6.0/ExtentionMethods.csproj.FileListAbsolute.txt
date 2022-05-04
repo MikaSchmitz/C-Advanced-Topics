@@ -1,0 +1,15 @@
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.exe
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.deps.json
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.runtimeconfig.json
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.dll
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.pdb
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.AssemblyReference.cache
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfoInputs.cache
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfo.cs
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.CoreCompileInputs.cache
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.dll
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\refint\ExtentionMethods.dll
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.pdb
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.genruntimeconfig.cache
+G:\Code\Udemy\csharp-advanced-course\ExtentionMethods\ExtentionMethods\obj\Debug\net6.0\ref\ExtentionMethods.dll

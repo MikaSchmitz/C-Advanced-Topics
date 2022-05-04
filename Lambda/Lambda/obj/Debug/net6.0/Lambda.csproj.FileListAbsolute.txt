@@ -1,0 +1,15 @@
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+G:\Code\Udemy\csharp-advanced-course\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll

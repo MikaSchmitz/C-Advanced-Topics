@@ -1,0 +1,15 @@
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+G:\Code\Udemy\csharp-advanced-course\Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll
