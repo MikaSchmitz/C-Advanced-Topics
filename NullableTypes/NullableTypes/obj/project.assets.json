@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\Courses\\C# Advanced Topics\\Generics\\Generics\\Generics.csproj",
-      "projectName": "Generics",
-      "projectPath": "E:\\Coding\\Courses\\C# Advanced Topics\\Generics\\Generics\\Generics.csproj",
+      "projectUniqueName": "E:\\Coding\\Courses\\C# Advanced Topics\\NullableTypes\\NullableTypes\\NullableTypes.csproj",
+      "projectName": "NullableTypes",
+      "projectPath": "E:\\Coding\\Courses\\C# Advanced Topics\\NullableTypes\\NullableTypes\\NullableTypes.csproj",
       "packagesPath": "C:\\Users\\Mika\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\Courses\\C# Advanced Topics\\Generics\\Generics\\obj\\",
+      "outputPath": "E:\\Coding\\Courses\\C# Advanced Topics\\NullableTypes\\NullableTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

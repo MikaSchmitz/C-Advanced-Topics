@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OV0bzS2ExS6HKqIPhR+vvlUfng5nCGkjgtZmI6kZhXFRkLHDXUHfWTPUsNoh5nn6L69farEPftgNhE0OdkjCHg==",
+  "dgSpecHash": "h18Xgq7rZvGZwJVgzh8nhw7ZbYTLCFPQqTMoLS2VNSpyFyxILEXjI1TS5zKcpDqYVE49zH2hP75oswzx6x50AA==",
   "success": true,
-  "projectFilePath": "G:\\Code\\Udemy\\csharp-advanced-course\\Generics\\Generics\\Generics.csproj",
+  "projectFilePath": "E:\\Coding\\Courses\\C# Advanced Topics\\Generics\\Generics\\Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
