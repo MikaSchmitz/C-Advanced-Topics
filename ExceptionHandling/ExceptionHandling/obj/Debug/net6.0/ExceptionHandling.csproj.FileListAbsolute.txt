@@ -1,0 +1,15 @@
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+E:\Coding\Courses\C# Advanced Topics\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

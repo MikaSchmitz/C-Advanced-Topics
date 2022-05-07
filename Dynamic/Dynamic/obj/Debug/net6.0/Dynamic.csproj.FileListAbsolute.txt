@@ -1,0 +1,15 @@
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\bin\Debug\net6.0\Dynamic.exe
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\bin\Debug\net6.0\Dynamic.deps.json
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\bin\Debug\net6.0\Dynamic.runtimeconfig.json
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\bin\Debug\net6.0\Dynamic.dll
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\bin\Debug\net6.0\Dynamic.pdb
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.csproj.AssemblyReference.cache
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.AssemblyInfoInputs.cache
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.AssemblyInfo.cs
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.csproj.CoreCompileInputs.cache
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.dll
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\refint\Dynamic.dll
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.pdb
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\Dynamic.genruntimeconfig.cache
+E:\Coding\Courses\C# Advanced Topics\Dynamic\Dynamic\obj\Debug\net6.0\ref\Dynamic.dll
